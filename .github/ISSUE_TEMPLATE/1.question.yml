@@ -1,0 +1,22 @@
+name: "New Issue"
+description: |
+  Create a new issue under the Awsome Vue Storefront repository
+labels:
+  - triage-needed
+body:
+  - type: markdown
+    attributes:
+      value: If you are not sure how something works or want discuss something just describe your doubts.
+  - type: textarea
+    attributes:
+      label: What is your question / Please describe your issue
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/vuestorefront/awesome-vuestorefront/blob/master/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
