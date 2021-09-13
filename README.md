@@ -56,30 +56,39 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
   - [Docs](https://docs.vuestorefront.io/v2/commercetools/) 
   - [Repository](https://github.com/vuestorefront/vue-storefront/tree/main/packages/commercetools)
   - [Boilerplate Store](https://github.com/vuestorefront/template-commercetools)
+
+- Kibo Commerce
+  - [Repository](https://github.com/vuestorefront/kibocommerce)
+
+- Magento 2
+  - [Docs](https://docs.vuestorefront.io/magento2/)
+  - [Repository](https://github.com/vuestorefront/magento2)
+  - [Boilerplate Store](https://github.com/vuestorefront/template-magento)
+
+- Odoo Commerce
+  - [Repository](https://github.com/vuestorefront/odoo)
+
+- Salesforce CommerceCloud
+  - [Docs](https://docs.vuestorefront.io/sfcc/)
+  - [Repository](https://docs.vuestorefront.io/sfcc/)
+
 - Shopify
   - [Docs](https://docs.vuestorefront.io/shopify/) 
   - [Repository](https://docs.vuestorefront.io/shopify/)
   - [Boilerplate Store](https://github.com/vuestorefront/template-shopify)
-- Magento 2
-  - [Docs](https://docs.vuestorefront.io/magento2/) 
-  - [Repository](https://github.com/vuestorefront/magento2)
-  - [Boilerplate Store](https://github.com/vuestorefront/template-magento)
-- Salesforce CommerceCloud
-  - [Docs](https://docs.vuestorefront.io/sfcc/) 
-  - [Repository](https://docs.vuestorefront.io/sfcc/)
+
+- ShopwarePWA 6
+  - [Docs](https://shopware-pwa-docs.vuestorefront.io/)
+  - [Repository](https://github.com/vuestorefront/shopware-pwa)
+  
 - Spryker
   - [Docs](https://spryker-vsf-docs.web.app/) 
-- ShopwarePWA 6
-  - [Docs](https://shopware-pwa-docs.vuestorefront.io/) 
-  - [Repository](https://github.com/vuestorefront/shopware-pwa)
+
 - Vendure
   - [Docs](https://docs.vuestorefront.io/vendure/) 
   - [Repository](https://github.com/vuestorefront/vendure)
   - [Boilerplate Store](https://github.com/vuestorefront/template-vendure)
-- Kibo Commerce
-  - [Repository](https://github.com/vuestorefront/kibocommerce) 
-- Odoo Commerce
-  - [Repository](https://github.com/vuestorefront/odoo) 
+
 - Woocommerce
   - [Repository](https://github.com/vuestorefront/woocommerce) 
 
