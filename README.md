@@ -33,38 +33,73 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 ## Contents
 
 - [Contribute to this Awesome list](#contribute-to-this-awesome-list)
-- [Resources for Vue Storefront 2](#resources-for-vue-storefront)
+- [Resources for Vue Storefront 2](#resources-for-vue-storefront-2)
+    - [Official Resources](#official-resources---v2)
     - [Integrations](#integrations)
 - [Resources for Vue Storefront 1](#resources-for-vue-storefront-1)
-    - [Front-End Themes](#front-end-themes)
-    - [Front-End Modules](#front-end-modules)
-    - [Back-End (API) Extensions](#back-end-api-extensions)
+    - [Official Resources](#official-resources---v1)
+    - [Front-End Themes](#front-end-themes---v1)
+    - [Front-End Modules](#front-end-modules---v1)
+    - [Back-End (API) Extensions](#back-end-api-extensions---v1)
 
 
-## Resources for Vue Storefront
+## Resources for Vue Storefront 2
 
-### Official Resources
+### Official Resources - v2
 - [Core Repository](https://github.com/vuestorefront/vue-storefront)
 - [Documentation](https://docs.vuestorefront.io/)
+- [Integration Boilerplate](https://github.com/vuestorefront/ecommerce-integration-boilerplate)
+- [Storefront UI](https://www.storefrontui.io/)
 
 ### Integrations
-- [Commercetools](https://docs.vuestorefront.io/v2/commercetools/)
-- [Shopify](https://docs.vuestorefront.io/shopify/)
-- [Magento](https://docs.vuestorefront.io/magento/)
-- [Salesforce CommerceCloud](https://docs.vuestorefront.io/sfcc/)
-- [Spryker](https://spryker-vsf-docs.web.app/)
-- [Vendure](https://docs.vuestorefront.io/vendure/)
+- Commercetools
+  - [Docs](https://docs.vuestorefront.io/v2/commercetools/) 
+  - [Repository](https://github.com/vuestorefront/vue-storefront/tree/main/packages/commercetools)
+  - [Boilerplate Store](https://github.com/vuestorefront/template-commercetools)
+- Shopify
+  - [Docs](https://docs.vuestorefront.io/shopify/) 
+  - [Repository](https://docs.vuestorefront.io/shopify/)
+  - [Boilerplate Store](https://github.com/vuestorefront/template-shopify)
+- Magento 2
+  - [Docs](https://docs.vuestorefront.io/magento2/) 
+  - [Repository](https://github.com/vuestorefront/magento2)
+  - [Boilerplate Store](https://github.com/vuestorefront/template-magento)
+- Salesforce CommerceCloud
+  - [Docs](https://docs.vuestorefront.io/sfcc/) 
+  - [Repository](https://docs.vuestorefront.io/sfcc/)
+- Spryker
+  - [Docs](https://spryker-vsf-docs.web.app/) 
+- ShopwarePWA 6
+  - [Docs](https://shopware-pwa-docs.vuestorefront.io/) 
+  - [Repository](https://github.com/vuestorefront/shopware-pwa)
+- Vendure
+  - [Docs](https://docs.vuestorefront.io/vendure/) 
+  - [Repository](https://github.com/vuestorefront/vendure)
+  - [Boilerplate Store](https://github.com/vuestorefront/template-vendure)
+- Kibo Commerce
+  - [Repository](https://github.com/vuestorefront/kibocommerce) 
+- Odoo Commerce
+  - [Repository](https://github.com/vuestorefront/odoo) 
+- Woocommerce
+  - [Repository](https://github.com/vuestorefront/woocommerce) 
+
+#### Extensions - v2
+- Checkout.com
+  - [Repository](https://github.com/vuestorefront/checkout-com)
+- Storyblok
+  - [Docs](https://docs.vuestorefront.io/storyblok/) 
+  - [Repository](https://github.com/vuestorefront/storyblok) 
 
 ## Resources for Vue Storefront 1
 
-### Official Resources
+### Official Resources - v1
 - [Repository](https://github.com/vuestorefront/vue-storefront-1)
 - [Documentation](https://docs.vuestorefront.io/)
 
-#### Front-End Themes
+#### Front-End Themes - v1
 - [Vuetique](https://vuetique.io/)
 
-#### Front-End Modules
+#### Front-End Modules - v1
 - [External Checkout](https://github.com/Vendic/vsf-external-checkout)
 - [Magento External Checkout](https://github.com/DivanteLtd/magento2-external-checkout)
 - [Paypal payment integration](https://github.com/develodesign/vsf-payment-paypal)
@@ -87,7 +122,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - [Razorpay payment integration](https://github.com/aureatelabs/vsf-payment-razorpay/)
 - [Algolia Search integration (for search panel)](https://github.com/Interactivated/vsf-algolia-search)
 
-#### Back-End (API) Extensions
+#### Back-End (API) Extensions - v1
 - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront
 - [Wordpress integration](https://github.com/develodesign/vsf-wp)
 - [VueStorefront XML sitemap generator for Magento 2
