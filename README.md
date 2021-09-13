@@ -41,7 +41,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
     - [Front-End Themes](#front-end-themes---v1)
     - [Front-End Modules](#front-end-modules---v1)
     - [Back-End (API) Extensions](#back-end-api-extensions---v1)
-
+- [Stores using Vue Storefront](#stores-using-vue-storefront)
 
 ## Resources for Vue Storefront 2
 
@@ -130,3 +130,10 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - [Django Oscar API layer](https://github.com/ladrua/django-oscar-api-vue-storefront) – API layer for django-oscar to vue-storefront
 - [odoo integration](https://github.com/cristian-g/vsf-odoo) - Odoo integration for VSF
 - [magento2-cms-api](https://github.com/SnowdogApps/magento2-cms-api) - Custom CMS API endpoints which retrieves CMS pages and blocks filtered
+
+-----
+
+## Stores using Vue Storefront
+|Store Name|Base Country|URL|VSF Version|
+|---	|---	|---	|---	|
+|   	|   	|   	|   	|
