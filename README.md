@@ -112,7 +112,6 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - [External Checkout](https://github.com/Vendic/vsf-external-checkout)
 - [Magento External Checkout](https://github.com/DivanteLtd/magento2-external-checkout)
 - [Paypal payment integration](https://github.com/develodesign/vsf-payment-paypal)
-- [Adyen payment integration](https://github.com/melvin-hamilton-digital/vsf-payment-adyen)
 - [Braintree payment integration](https://github.com/danrcoull/vsf-payment-braintree)
 - [Stripe Payment integration](https://github.com/develodesign/vsf-payment-stripe) – 1.0.0 for old version, and start from 2.0.0 for new versions of VSF
 - [Contentful integration](https://github.com/juliankoehn/vsf-contentful)
@@ -130,6 +129,10 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - [Customer address book](https://github.com/aureatelabs/vsf-address-book/)
 - [Razorpay payment integration](https://github.com/aureatelabs/vsf-payment-razorpay/)
 - [Algolia Search integration (for search panel)](https://github.com/Interactivated/vsf-algolia-search)
+- [Aheadworks Blog for Vue Storefront](https://github.com/magebitcom/vsf-aheadworks-blog)
+- [Vue Storefront Freshchat module](https://github.com/aureatelabs/vsf-freshchat)
+- [vsfapi-magento2-newsletter](https://github.com/ittweb/vsfapi-magento2-newsletter)
+- [Peregrine CMS Module for Vue Storefront](https://github.com/hotwax/vsf-peregrine)
 
 #### Back-End (API) Extensions - v1
 - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront
@@ -139,6 +142,8 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - [Django Oscar API layer](https://github.com/ladrua/django-oscar-api-vue-storefront) – API layer for django-oscar to vue-storefront
 - [odoo integration](https://github.com/cristian-g/vsf-odoo) - Odoo integration for VSF
 - [magento2-cms-api](https://github.com/SnowdogApps/magento2-cms-api) - Custom CMS API endpoints which retrieves CMS pages and blocks filtered
+- [BitBag SyliusVueStorefrontPlugin](https://github.com/BitBagCommerce/SyliusVueStorefrontPlugin)
+- [OpenCart2 Vue Storefront API Platform](https://github.com/butopea/vue-storefront-api-opencart2-platform)
 
 -----
 
