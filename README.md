@@ -109,41 +109,58 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - [Vuetique](https://vuetique.io/)
 
 #### Front-End Modules - v1
-- [External Checkout](https://github.com/Vendic/vsf-external-checkout)
-- [Magento External Checkout](https://github.com/DivanteLtd/magento2-external-checkout)
-- [Paypal payment integration](https://github.com/develodesign/vsf-payment-paypal)
+- [Aheadworks Blog for Vue Storefront](https://github.com/magebitcom/vsf-aheadworks-blog)
+- [Algolia Search integration (for search panel)](https://github.com/Interactivated/vsf-algolia-search)
 - [Braintree payment integration](https://github.com/danrcoull/vsf-payment-braintree)
-- [Stripe Payment integration](https://github.com/develodesign/vsf-payment-stripe) – 1.0.0 for old version, and start from 2.0.0 for new versions of VSF
 - [Contentful integration](https://github.com/juliankoehn/vsf-contentful)
-- [Prismic integration](https://www.dnd.fr/2019/03/discover-our-new-connector-between-vue-storefront-and-prismic/)
-- [Wordpress intergation](https://github.com/develodesign/vsf-wp)
-- [Storyblok integration (visual editor)](https://github.com/kodbruket/vsf-storyblok-sync)
-- [Mouseflow integration](https://github.com/cnviradiya/vsf-mouseflow)
+- [Customer address book](https://github.com/aureatelabs/vsf-address-book/)
+- [External Checkout](https://github.com/Vendic/vsf-external-checkout)
 - [Facebook Pixel](https://github.com/new-fantastic/vsf-facebook-pixel)
-- [Request for quotation (RFQ) integration](https://github.com/Interactivated/vsf-wholesale-request)
-- [Layered Navigation with Multiselect filters and Price Slider](https://github.com/GetNoticedNL/vsf-layered-navigation)
+- [Google Invisible reCAPTCHA integration](https://github.com/aureatelabs/vsf-google-recaptcha/)
 - [Intercom integration](https://github.com/develodesign/vsf-intercom)
+- [Layered Navigation with Multiselect filters and Price Slider](https://github.com/GetNoticedNL/vsf-layered-navigation)
+- [Magento External Checkout](https://github.com/DivanteLtd/magento2-external-checkout)
+- [Mouseflow integration](https://github.com/cnviradiya/vsf-mouseflow)
+- [Paypal payment integration](https://github.com/develodesign/vsf-payment-paypal)
+- [PayPal Payment module for Vue Storefront](https://github.com/new-fantastic/vsf-payment-paypal)
+- [Peregrine CMS Module for Vue Storefront](https://github.com/hotwax/vsf-peregrine)
+- [Prismic integration](https://www.dnd.fr/2019/03/discover-our-new-connector-between-vue-storefront-and-prismic/)
+- [Razorpay payment integration](https://github.com/aureatelabs/vsf-payment-razorpay/)
+- [Request for quotation (RFQ) integration](https://github.com/Interactivated/vsf-wholesale-request)
+- [Storyblok integration (visual editor)](https://github.com/kodbruket/vsf-storyblok-sync)
+- [Stripe Payment integration](https://github.com/develodesign/vsf-payment-stripe) – 1.0.0 for old version, and start from 2.0.0 for new versions of VSF
+- [Stripe Payment module for Vue Storefront](https://github.com/new-fantastic/vsf-payment-stripe)
 - [Tawk.to integration](https://github.com/razzul/vsf-tawk)
 - [URL Mapping fallback](https://github.com/kodbruket/vsf-mapping-fallback/)
-- [Google Invisible reCAPTCHA integration](https://github.com/aureatelabs/vsf-google-recaptcha/)
-- [Customer address book](https://github.com/aureatelabs/vsf-address-book/)
-- [Razorpay payment integration](https://github.com/aureatelabs/vsf-payment-razorpay/)
-- [Algolia Search integration (for search panel)](https://github.com/Interactivated/vsf-algolia-search)
-- [Aheadworks Blog for Vue Storefront](https://github.com/magebitcom/vsf-aheadworks-blog)
-- [Vue Storefront Freshchat module](https://github.com/aureatelabs/vsf-freshchat)
+- [VSF Cache NGINX](https://github.com/new-fantastic/vsf-cache-nginx)
+- [VSF Cache Varnish](https://github.com/new-fantastic/vsf-cache-varnish)
+- [VSF Facebook Pixel](https://github.com/new-fantastic/vsf-facebook-pixel)
+- [VSF Magento Image](https://github.com/new-fantastic/vsf-magento-image)
+- [vsf-facebook-js-sdk](https://github.com/new-fantastic/vsf-facebook-js-sdk)
+- [vsf-messenger-chat](https://github.com/new-fantastic/vsf-messenger-chat)
+- [vsf-sendgrid](https://github.com/new-fantastic/vsf-sendgrid-mail)
+- [vsf-wishlist](https://github.com/new-fantastic/vsf-wishlist)
+- [vsf-yotpo](https://github.com/new-fantastic/vsf-yotpo)
 - [vsfapi-magento2-newsletter](https://github.com/ittweb/vsfapi-magento2-newsletter)
-- [Peregrine CMS Module for Vue Storefront](https://github.com/hotwax/vsf-peregrine)
+- [Vue Storefront - Cloudflare Autopurge](https://github.com/new-fantastic/vsf-cloudflare)
+- [Vue Storefront Apple Pay Payment Extension](https://github.com/new-fantastic/vsf-apple-pay)
+- [Vue Storefront Braintree Payment Extension](https://github.com/new-fantastic/vsf-payment-braintree)
+- [Vue Storefront Freshchat module](https://github.com/aureatelabs/vsf-freshchat)
+- [Vue Storefront Instagram Feed extension](https://github.com/new-fantastic/vsf-instagram-feed)
+- [Vue Storefront Klaviyo Extension](https://github.com/new-fantastic/vsf-klaviyo)
+- [Vue Storefront Sendgrid Newsletter Extension](https://github.com/new-fantastic/vsf-sendgrid-newsletter)
+- [Vue Storefront Stamped.io module](https://github.com/new-fantastic/vsf-stamped)
+- [Wordpress intergation](https://github.com/develodesign/vsf-wp)
 
 #### Back-End (API) Extensions - v1
-- [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront
-- [Wordpress integration](https://github.com/develodesign/vsf-wp)
-- [VueStorefront XML sitemap generator for Magento 2
-  ](https://github.com/Vendic/magento2-vuestorefront-xmlsitemap)
+- [BitBag Sylius Vue Storefront Plugin](https://github.com/BitBagCommerce/SyliusVueStorefrontPlugin)
 - [Django Oscar API layer](https://github.com/ladrua/django-oscar-api-vue-storefront) – API layer for django-oscar to vue-storefront
-- [odoo integration](https://github.com/cristian-g/vsf-odoo) - Odoo integration for VSF
 - [magento2-cms-api](https://github.com/SnowdogApps/magento2-cms-api) - Custom CMS API endpoints which retrieves CMS pages and blocks filtered
-- [BitBag SyliusVueStorefrontPlugin](https://github.com/BitBagCommerce/SyliusVueStorefrontPlugin)
+- [odoo integration](https://github.com/cristian-g/vsf-odoo) - Odoo integration for VSF
 - [OpenCart2 Vue Storefront API Platform](https://github.com/butopea/vue-storefront-api-opencart2-platform)
+- [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront
+- [Vue Storefront XML sitemap generator for Magento 2](https://github.com/Vendic/magento2-vuestorefront-xmlsitemap)
+- [Wordpress integration](https://github.com/develodesign/vsf-wp)
 
 -----
 
