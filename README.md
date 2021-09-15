@@ -35,7 +35,10 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - [Contribute to this Awesome list](#contribute-to-this-awesome-list)
 - [Resources for Vue Storefront 2](#resources-for-vue-storefront-2)
     - [Official Resources](#official-resources---v2)
-    - [Integrations](#integrations)
+    - [Open Source](#open-source)
+      - [eCommerce Platform](#ecommerce-platform-integrations) 
+      - [Extensions V2](#extensions---v2)
+    - [Enterprise Integrations](#enterprise-integrations)
 - [Resources for Vue Storefront 1](#resources-for-vue-storefront-1)
     - [Official Resources](#official-resources---v1)
     - [Front-End Themes](#front-end-themes---v1)
@@ -51,7 +54,8 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - [Integration Boilerplate](https://github.com/vuestorefront/ecommerce-integration-boilerplate)
 - [Storefront UI](https://www.storefrontui.io/)
 
-### Open Source Integrations
+### Open Source
+#### eCommerce Platform Integrations
 - Commercetools
   - [Docs](https://docs.vuestorefront.io/v2/commercetools/) 
   - [Repository](https://github.com/vuestorefront/vue-storefront/tree/main/packages/commercetools)
@@ -92,7 +96,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - Woocommerce
   - [Repository](https://github.com/vuestorefront/woocommerce) 
   
-#### Extensions - v2
+### Extensions - v2
 
 #### CMS
 - Lexas CMS
