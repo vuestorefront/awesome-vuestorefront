@@ -35,10 +35,10 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - [Contribute to this Awesome list](#contribute-to-this-awesome-list)
 - [Resources for Vue Storefront 2](#resources-for-vue-storefront-2)
     - [Official Resources](#official-resources---v2)
-    - [Open Source](#open-source)
-      - [eCommerce Platform](#ecommerce-platform-integrations) 
+    - [Open Source](#open-source---v2)
+      - [eCommerce Platform](#ecommerce-platform-integrations---v2) 
       - [Extensions V2](#extensions---v2)
-    - [Enterprise Integrations](#enterprise-integrations)
+    - [Enterprise Integrations](#enterprise-integrations---v2)
 - [Resources for Vue Storefront 1](#resources-for-vue-storefront-1)
     - [Official Resources](#official-resources---v1)
     - [Front-End Themes](#front-end-themes---v1)
@@ -54,8 +54,8 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - [Integration Boilerplate](https://github.com/vuestorefront/ecommerce-integration-boilerplate)
 - [Storefront UI](https://www.storefrontui.io/)
 
-### Open Source
-#### eCommerce Platform Integrations
+### Open Source - v2
+#### eCommerce Platform Integrations - v2
 - Commercetools
   - [Docs](https://docs.vuestorefront.io/v2/commercetools/) 
   - [Repository](https://github.com/vuestorefront/vue-storefront/tree/main/packages/commercetools)
@@ -109,7 +109,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - Checkout.com
   - [Repository](https://github.com/vuestorefront/checkout-com)
 
-### Enterprise Integrations
+### Enterprise Integrations - v2
 #### CMS
 - Amplience CMS
   - [Docs](https://docs.vuestorefront.io/amplience/)
