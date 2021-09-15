@@ -99,6 +99,28 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
   - [Docs](https://docs.vuestorefront.io/storyblok/) 
   - [Repository](https://github.com/vuestorefront/storyblok) 
 
+### Enterprise Integrations
+#### CMS
+- [Amplience CMS](https://docs.vuestorefront.io/amplience/)
+- [Contentstack CMS](https://docs.vuestorefront.io/contentstack/)
+- [Contentful CMS](https://docs.vuestorefront.io/contentful/)
+- [Lexas CMS](https://github.com/LexasCMS/vsf-next-lexascms)
+
+#### Reviews
+- [Bazaarvoice](https://docs.vuestorefront.io/v2/integrations/bazaarvoice.html)
+
+#### Cache
+- [Redis](https://docs.vuestorefront.io/v2/integrations/redis-cache.html)
+
+#### Payment Gateways
+- [Adyen](https://docs.vuestorefront.io/v2/integrations/adyen.html)
+
+#### Authentication Methods
+- [Auth0](https://docs.vuestorefront.io/auth0/)
+ 
+#### Search Engines
+- [Algolia](https://docs.vuestorefront.io/algolia/)
+
 ## Resources for Vue Storefront 1
 
 ### Official Resources - v1
