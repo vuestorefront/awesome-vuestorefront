@@ -51,7 +51,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - [Integration Boilerplate](https://github.com/vuestorefront/ecommerce-integration-boilerplate)
 - [Storefront UI](https://www.storefrontui.io/)
 
-### Integrations
+### Open Source Integrations
 - Commercetools
   - [Docs](https://docs.vuestorefront.io/v2/commercetools/) 
   - [Repository](https://github.com/vuestorefront/vue-storefront/tree/main/packages/commercetools)
@@ -91,35 +91,48 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 
 - Woocommerce
   - [Repository](https://github.com/vuestorefront/woocommerce) 
-
+  
 #### Extensions - v2
+
+#### CMS
+- Lexas CMS
+  - [Repository](https://github.com/LexasCMS/vsf-next-lexascms)
+- Storyblok
+  - [Docs](https://docs.vuestorefront.io/storyblok/)
+  - [Repository](https://github.com/vuestorefront/storyblok)
+ 
+#### Payment Gateways 
 - Checkout.com
   - [Repository](https://github.com/vuestorefront/checkout-com)
-- Storyblok
-  - [Docs](https://docs.vuestorefront.io/storyblok/) 
-  - [Repository](https://github.com/vuestorefront/storyblok) 
 
 ### Enterprise Integrations
 #### CMS
-- [Amplience CMS](https://docs.vuestorefront.io/amplience/)
-- [Contentstack CMS](https://docs.vuestorefront.io/contentstack/)
-- [Contentful CMS](https://docs.vuestorefront.io/contentful/)
-- [Lexas CMS](https://github.com/LexasCMS/vsf-next-lexascms)
+- Amplience CMS
+  - [Docs](https://docs.vuestorefront.io/amplience/)
+- Contentstack CMS
+  - [Docs](https://docs.vuestorefront.io/contentstack/)
+- Contentful CMS
+  - [Docs](https://docs.vuestorefront.io/contentful/)
 
 #### Reviews
-- [Bazaarvoice](https://docs.vuestorefront.io/v2/integrations/bazaarvoice.html)
+- Bazaarvoice
+  - [Docs](https://docs.vuestorefront.io/v2/integrations/bazaarvoice.html)
 
 #### Cache
-- [Redis](https://docs.vuestorefront.io/v2/integrations/redis-cache.html)
+- Redis
+  - [Docs](https://docs.vuestorefront.io/v2/integrations/redis-cache.html)
 
 #### Payment Gateways
-- [Adyen](https://docs.vuestorefront.io/v2/integrations/adyen.html)
+- Adyen
+  - [Docs](https://docs.vuestorefront.io/v2/integrations/adyen.html)
 
 #### Authentication Methods
-- [Auth0](https://docs.vuestorefront.io/auth0/)
+- Auth0
+  - [Docs](https://docs.vuestorefront.io/auth0/)
  
 #### Search Engines
-- [Algolia](https://docs.vuestorefront.io/algolia/)
+- Algolia
+  - [Docs](https://docs.vuestorefront.io/algolia/)
 
 ## Resources for Vue Storefront 1
 
