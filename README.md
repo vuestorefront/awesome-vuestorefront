@@ -55,6 +55,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - [Storefront UI](https://www.storefrontui.io/)
 
 ### Open Source - v2
+
 #### eCommerce Platform Integrations - v2
 - Commercetools
   - [Docs](https://docs.vuestorefront.io/v2/commercetools/) 
