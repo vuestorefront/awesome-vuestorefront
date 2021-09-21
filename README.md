@@ -198,6 +198,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront
 - [Vue Storefront XML sitemap generator for Magento 2](https://github.com/Vendic/magento2-vuestorefront-xmlsitemap)
 - [Wordpress integration](https://github.com/develodesign/vsf-wp)
+- [Tryton integration](https://github.com/tryton/web_shop_vue_storefront) - Tryton module provides the back-end to integrate with VSF
 
 -----
 
