@@ -65,7 +65,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
   - [Repository](https://github.com/vuestorefront/kibocommerce)
 
 - Magento 2
-  - [Docs](https://docs.vuestorefront.io/magento2/)
+  - [Docs](https://docs.vuestorefront.io/magento/)
   - [Repository](https://github.com/vuestorefront/magento2)
   - [Boilerplate Store](https://github.com/vuestorefront/template-magento)
 
