@@ -73,7 +73,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - Odoo Commerce
   - [Repository](https://github.com/vuestorefront/odoo)
 
--Prestashop
+- Prestashop
   - [Repository](https://github.com/vuestorefront/prestashop)
 
 - Salesforce CommerceCloud
@@ -89,7 +89,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
   - [Docs](https://shopware-pwa-docs.vuestorefront.io/)
   - [Repository](https://github.com/vuestorefront/shopware-pwa)
   
--Spree
+- Spree
   - [Docs](https://docs.vuestorefront.io/spree/)
   - [Repository](https://github.com/vuestorefront/spree)
   - [Demo](https://vuestorefront-spree.upsidelab.io/)
