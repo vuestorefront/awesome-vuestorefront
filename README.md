@@ -73,6 +73,9 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 - Odoo Commerce
   - [Repository](https://github.com/vuestorefront/odoo)
 
+-Prestashop
+  - [Repository](https://github.com/vuestorefront/prestashop)
+
 - Salesforce CommerceCloud
   - [Docs](https://docs.vuestorefront.io/sfcc/)
   - [Repository](https://docs.vuestorefront.io/sfcc/)
@@ -86,6 +89,11 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
   - [Docs](https://shopware-pwa-docs.vuestorefront.io/)
   - [Repository](https://github.com/vuestorefront/shopware-pwa)
   
+-Spree
+  - [Docs](https://docs.vuestorefront.io/spree/)
+  - [Repository](https://github.com/vuestorefront/spree)
+  - [Demo](https://vuestorefront-spree.upsidelab.io/)
+
 - Spryker
   - [Docs](https://spryker-vsf-docs.web.app/) 
 
@@ -102,6 +110,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 #### CMS
 - Lexas CMS
   - [Repository](https://github.com/LexasCMS/vsf-next-lexascms)
+
 - Storyblok
   - [Docs](https://docs.vuestorefront.io/storyblok/)
   - [Repository](https://github.com/vuestorefront/storyblok)
