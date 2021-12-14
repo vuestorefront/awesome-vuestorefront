@@ -63,18 +63,21 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
   - [Boilerplate Store](https://github.com/vuestorefront/template-commercetools)
 
 - Kibo Commerce
-  - [Repository](https://github.com/vuestorefront/kibocommerce)
+  - [Repository](https://github.com/vuestorefront-community/kibocommerce)
 
 - Magento 2
   - [Docs](https://docs.vuestorefront.io/magento/)
   - [Repository](https://github.com/vuestorefront/magento2)
   - [Boilerplate Store](https://github.com/vuestorefront/template-magento)
 
+- nopCommerce
+  - [Repository](https://github.com/vuestorefront-community/nopcommerce)
+
 - Odoo Commerce
-  - [Repository](https://github.com/vuestorefront/odoo)
+  - [Repository](https://github.com/vuestorefront-community/odoo)
 
 - Prestashop
-  - [Repository](https://github.com/vuestorefront/prestashop)
+  - [Repository](https://github.com/vuestorefront-community/prestashop)
 
 - Salesforce CommerceCloud
   - [Docs](https://docs.vuestorefront.io/sfcc/)
@@ -99,11 +102,11 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/vuestorefron
 
 - Vendure
   - [Docs](https://docs.vuestorefront.io/vendure/) 
-  - [Repository](https://github.com/vuestorefront/vendure)
-  - [Boilerplate Store](https://github.com/vuestorefront/template-vendure)
+  - [Repository](https://github.com/vuestorefront-community/vendure)
+  - [Boilerplate Store](https://github.com/vuestorefront-community/template-vendure)
 
 - Woocommerce
-  - [Repository](https://github.com/vuestorefront/woocommerce) 
+  - [Repository](https://github.com/vuestorefront-community/woocommerce) 
   
 ### Extensions - v2
 
